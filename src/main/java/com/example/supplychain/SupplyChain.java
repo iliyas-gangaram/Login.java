@@ -40,7 +40,6 @@ Pane root;
     public static final int width = 700, height = 400, upperLine = 50;
 
     ProductDetails productDetails = new ProductDetails();
-    Orderdetails orderdetails = new Orderdetails();
 
     private Pane headerBar(){
 
